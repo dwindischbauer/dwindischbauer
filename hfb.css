@@ -1,0 +1,15 @@
+.flexbox{
+    display: flex;
+    flex: content;
+   justify-content: space-evenly;
+    
+  }
+  .flexbox > div{
+    margin-top: 10%;
+    
+  
+  }
+  .motorcycle_img{
+    width: 50%;
+    border-radius: 10%;
+  }
